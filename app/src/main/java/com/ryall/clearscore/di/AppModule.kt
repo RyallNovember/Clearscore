@@ -1,7 +1,7 @@
 package com.ryall.clearscore.di
 
 import com.ryall.clearscore.api.ApiService
-import com.ryall.clearscore.repository.CreditScoreRepository
+import com.ryall.clearscore.repository.CreditReportRepository
 import com.ryall.clearscore.util.Constants.Companion.BASE_URL
 import dagger.Module
 import dagger.Provides
@@ -46,5 +46,5 @@ object AppModule {
 
     @Singleton
     @Provides
-    fun provideRepository(apiService: ApiService) = CreditScoreRepository(apiService)
+    fun provideRepository(apiService: ApiService) = CreditReportRepository(apiService)
 }

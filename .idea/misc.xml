@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/RyallNovember/Downloads/KotlinProjects/Clearscore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
         <entry key="..\:/Users/RyallNovember/Downloads/KotlinProjects/Clearscore/app/src/main/res/drawable/background.xml" value="0.3828125" />
+        <entry key="..\:/Users/RyallNovember/Downloads/KotlinProjects/Clearscore/app/src/main/res/layout/activity_credit_report_detail.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/RyallNovember/Downloads/KotlinProjects/Clearscore/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/RyallNovember/Downloads/KotlinProjects/Clearscore/app/src/main/res/layout/fragment_credit_report_details.xml" value="0.32386363636363635" />
       </map>
     </option>
   </component>

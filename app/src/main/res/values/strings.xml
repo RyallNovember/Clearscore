@@ -2,5 +2,7 @@
     <string name="app_name">Clearscore</string>
     <string name="your_credit_score_is">Your credit score is</string>
     <string name="out_of_700">out of 700</string>
-    <string name="dummy_score">700</string>
+    <string name="status">STATUS :</string>
+    <string name="score_band">Score Band:</string>
+    <string name="credit_percentage_used">Credit Percentage Used:</string>
 </resources>
